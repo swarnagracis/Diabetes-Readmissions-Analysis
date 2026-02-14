@@ -1,4 +1,4 @@
-Diabetes Readmission Analysis Dashboard
+**Diabetes Readmission Analysis Dashboard**
 
 **Project Overview**
 
